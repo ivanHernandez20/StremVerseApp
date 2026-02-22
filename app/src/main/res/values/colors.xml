@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textoLogin">#ff0099cc</color>
+    <color name="background_dark">#0F0F1A</color>
+    <color name="card_dark">#1C1C2E</color>
+    <color name="primary_red">#E50914</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="streamverse_primary">#8A2BE2</color>
+    <color name="streamverse_purple_light">#9B46FF</color>
+    <color name="streamverse_violet">#8000FF</color>
+    <color name="streamverse_blue">#00C8FF</color>
+</resources>
